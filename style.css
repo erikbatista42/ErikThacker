@@ -61,9 +61,18 @@ h5:hover {
 	.img1 {
 		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px;
-
+		padding: 15px;
 		position: absolute;
 		left: 525px;
 		top: 600px;
 		width: 100px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+	}
+	.img1:hover {
+		color: white;
+		background-color: gray;
+		transition-duration: 0.2s;
 	}
