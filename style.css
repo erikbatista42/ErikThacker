@@ -24,6 +24,10 @@ body {
 	margin: 0;
 	padding: 0;
 	background-image: url("http://kylethacker.com/img/background-large.jpg");
+	background-size: cover;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 1000px;
 }
 	#intro {
 		text-align: center;
@@ -55,24 +59,22 @@ body {
 h5:hover {
 	color: white;
 	background-color: #4e4e32;
+	transition-duration: 0.2s;
 }
-
-
 	.img1 {
 		background-color: rgb(230, 175, 97);
-		-webkit-border-radius:5px;
+		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 525px;
-		top: 600px;
-		width: 100px;
-		border-bottom-right-radius: 5px;
-		border-bottom-left-radius: 5px;
-		border-top-right-radius: 5px;
-		border-top-left-radius: 5px;
+		left: 435px;
+		top: 775px;
+		padding-top: 43px;
+		padding-left: 115px;
+		padding-right: 100px; 
 	}
 	.img1:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
+
 	}
