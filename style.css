@@ -34,7 +34,7 @@ body {
 		background-image: url("http://kylethacker.com/img/background-large.jpg");
     	position:absolute;
     	width:100%;
-    	height:2000px;
+    	height:2175px;
     	left:0px;
     	background-attachment: scroll;
     	background-repeat: no-repeat;
@@ -105,6 +105,7 @@ body {
 		left: 535px;
 		top: 847px;
 		color: white;
+
 	}
 	.img2 {
 		background-color: rgb(230, 175, 97);
@@ -147,7 +148,7 @@ body {
 	}
 	.img3h3{
 		position: absolute;
-		left: 1200px;
+		left: 1200px;	
 		top: 847px;
 		color: white;
 	}
@@ -157,8 +158,8 @@ body {
 		padding: 15px;
 		position: absolute;
 		left: 435px;
-		top: 1200px;
-		padding-top: 43px;
+		top: 925px;
+		padding-top: 23px;
 		padding-left: 115px;
 		padding-right: 140px;
 	}
@@ -167,45 +168,57 @@ body {
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
-	.img4h4{
-
+	.img4h3{
+		position: absolute;
+		left: 470px;
+		top: 1100px;
+		color: white;
 	}
 	.img5 {
 		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 835px;
-		top: 1200px;
-		padding-top: 43px;
-		padding-left: 85px;
-		padding-right: 105px;
+		left: 772px;
+		top: 925px;
+		padding-top: 52px;
+		padding-left: 80px;
+		padding-right: 80px
 	}
 	.img5:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
-	.img5h5 {
-
+	.img5h3 {
+		position: absolute;
+		left: 870px;
+		top: 1100px;
+		color: white;
 	}
 	.img6 {
-				background-color: rgb(230, 175, 97);
+		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 1200px;
-		top: 1200px;
-		padding-top: 43px;
+		left: 1100px;
+		top: 925px;
+		padding-top: 95px;
 		padding-left: 115px;
-		padding-right: 100px;
+		padding-right: 150px;
 	}
 	.img6:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
-	.img6h6{
-
+	.img6h3{
+		position: absolute;
+		left: 1200px;
+		top: 1100px;
+		color: white;
+	}
+	.p1 {
+		
 	}
 	
