@@ -105,7 +105,6 @@ body {
 		left: 535px;
 		top: 847px;
 		color: white;
-
 	}
 	.img2 {
 		background-color: rgb(230, 175, 97);
@@ -139,7 +138,6 @@ body {
 		padding-top: 53px;
 		padding-left: 50px;
 		padding-right: 112px;
-		
 	}
 	.img3:hover {
 		color: white;
@@ -219,6 +217,14 @@ body {
 		color: white;
 	}
 	.p1 {
+		position: absolute;
+		top: 1500px;
+		text-align: center;
+		font-size: 27.3px;
+		font-weight: normal;
+		letter-spacing: 2.73;
+		line-height: 34px;
 		
+		dsfssdf
 	}
 	
