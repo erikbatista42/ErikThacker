@@ -8,6 +8,7 @@
 		list-style: none;
 		text-align: center;
 		padding: 30px  20px;
+
 }
 .nav > li {
 	display: inline-block;
@@ -18,18 +19,26 @@
 	}
 	.nav > li > a:hover {
 		color: #F7A736;
+		transition-duration: 0.2s;
+	}
+	.more {
+		position: absolute;
+		left: 875px;
+
 	}
 
 body {
-	cursor: auto;
-	margin: 0;
-	padding: 0;
-	background-image: url("http://kylethacker.com/img/background-large.jpg");
-	background-size: 100% auto;
-	background-attachment: scroll;
-	background-repeat: no-repeat;
-	line-height: 16px;
+	
 }
+	.pictures-intro {
+		background-image: url("http://kylethacker.com/img/background-large.jpg");
+    	position:absolute;
+    	width:100%;
+    	height:2000px;
+    	left:0px;
+    	background-attachment: scroll;
+    	background-repeat: no-repeat;
+	}
 	#intro {
 		text-align: center;
 		color: white;
@@ -81,8 +90,8 @@ body {
 		padding: 15px;
 		position: absolute;
 		left: 435px;
-		top: 775px;
-		padding-top: 43px;
+		top: 675px;
+		padding-top: 38px;
 		padding-left: 115px;
 		padding-right: 100px; 
 	}
@@ -91,69 +100,94 @@ body {
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
+	.img1h3 {
+		position: absolute;
+		left: 535px;
+		top: 847px;
+		color: white;
+	}
 	.img2 {
 		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 835px;
-		top: 775px;
+		left: 772px;
+		top: 675px;
 		padding-top: 43px;
-		padding-left: 115px;
-		padding-right: 100px;
+		padding-left: 120px;
+		padding-right: 110px;
 	}
 	.img2:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
+	.img2h3 {
+		position: absolute;
+		left: 867px;
+		top: 847px;
+		color: white;
+	}
 	.img3 {
 		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 1200px;
-		top: 775px;
-		padding-top: 43px;
-		padding-left: 115px;
-		padding-right: 100px;
+		left: 1107px;
+		top: 675px;
+		padding-top: 53px;
+		padding-left: 50px;
+		padding-right: 112px;
+		
 	}
 	.img3:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
+	.img3h3{
+		position: absolute;
+		left: 1200px;
+		top: 847px;
+		color: white;
+	}
 	.img4 {
 		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 835px;
-		top: 975px;
+		left: 435px;
+		top: 1200px;
 		padding-top: 43px;
 		padding-left: 115px;
-		padding-right: 100px;
+		padding-right: 140px;
 	}
 	.img4:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
 	}
+	.img4h4{
+
+	}
 	.img5 {
 		background-color: rgb(230, 175, 97);
 		-webkit-border-radius:5px 5px 5px 5px;
 		padding: 15px;
 		position: absolute;
-		left: 435px;
-		top: 975px;
+		left: 835px;
+		top: 1200px;
 		padding-top: 43px;
-		padding-left: 115px;
-		padding-right: 100px;
+		padding-left: 85px;
+		padding-right: 105px;
 	}
 	.img5:hover {
 		color: white;
 		background-color: gray;
 		transition-duration: 0.2s;
+	}
+	.img5h5 {
+
 	}
 	.img6 {
 				background-color: rgb(230, 175, 97);
@@ -161,12 +195,17 @@ body {
 		padding: 15px;
 		position: absolute;
 		left: 1200px;
-		top: 975px;
+		top: 1200px;
 		padding-top: 43px;
 		padding-left: 115px;
 		padding-right: 100px;
 	}
 	.img6:hover {
+		color: white;
+		background-color: gray;
+		transition-duration: 0.2s;
+	}
+	.img6h6{
 
 	}
 	
