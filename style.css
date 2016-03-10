@@ -219,16 +219,45 @@ body {
 	.p1 {
 		position: absolute;
 		top: 1500px;
-		text-align: center;
-		font-size: 27.3px;
-		font-weight: normal;
+		left: 435px;
+		font-size: 25px;
+		font-weight: 150px;
 		letter-spacing: 2.73;
 		line-height: 34px;
-		margin-top:0px 0px 0px 0px;
-		padding-bottom: 0px; 
-		padding-left:0px;
-		padding-right:0px;
-		padding-top:0px;
-		max-width: 985px;
+		height: 102px;
+		width: 985px;
+	}
+	.p2 {
+		position: absolute;
+		top: 1680px;
+		left: 435px;
+		font-size: 15.4px;
+		font-weight: 150px;
+		letter-spacing: 2.73;
+		line-height: 26px;
+		height: 102px;
+		width: 490px;
+	}
+	.p3 {
+		position: absolute;
+		top: 1835px;
+		left: 435px;
+		font-size: 15.4px;
+		font-weight: 150px;
+		letter-spacing: 2.73;
+		line-height: 26px;
+		height: 102px;
+		width: 490px;
+	}
+	.p4 {
+		position: absolute;
+		top: 2040px;
+		left: 435px;
+		font-size: 15.4px;
+		font-weight: 150px;
+		letter-spacing: 2.73;
+		line-height: 26px;
+		height: 102px;
+		width: 490px;
 	}
 	
