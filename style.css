@@ -288,5 +288,23 @@ body {
 		font-size: 21.5px;
 		line-height: 26px;
 	}
+	.p7 {
+		position: absolute;
+		top: 1870px;
+		left: 1060px;
+		height: 104px;
+		width: 315px;
+		font-size: 21.5px;
+		line-height: 26px;
+	}
 	
-	
+	#Resume {
+		position: absolute;
+		top: 1870px;
+		left: 1060px;
+	}
+	#Resume:hover {
+		color: black;
+		background-color: gray;
+		transition-duration: 0.2s;
+	}
