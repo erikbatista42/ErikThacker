@@ -232,7 +232,7 @@ body {
 		top: 1680px;
 		left: 435px;
 		font-size: 16.7px;
-		font-weight: 150px;
+		font-weight: normal;
 		letter-spacing: 2.73;
 		line-height: 26px;
 		height: 102px;
@@ -298,13 +298,17 @@ body {
 		line-height: 26px;
 	}
 	
-	#Resume {
+	#p8 {
 		position: absolute;
-		top: 1870px;
+		top: 1970px;
 		left: 1060px;
+		color: rgb(95, 95, 95);
+		font-size: 14.9px;
+		font-family: arial;
+		font-weight: bold;
 	}
-	#Resume:hover {
-		color: black;
-		background-color: gray;
+	#p8:hover {
 		transition-duration: 0.2s;
+		color: #F7A736
+
 	}
