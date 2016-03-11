@@ -260,4 +260,17 @@ body {
 		height: 102px;
 		width: 490px;
 	}
+
+	#div {
+		width: 1px;
+		height: 476px;
+		background-color: #d6d6d6;
+		position: absolute;
+		top: 1689px;
+		left: 943px;
+		
+	}
+ 	article {
+
+ 	}
 	
