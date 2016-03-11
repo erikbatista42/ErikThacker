@@ -231,7 +231,7 @@ body {
 		position: absolute;
 		top: 1680px;
 		left: 435px;
-		font-size: 15.4px;
+		font-size: 16.7px;
 		font-weight: 150px;
 		letter-spacing: 2.73;
 		line-height: 26px;
@@ -267,10 +267,26 @@ body {
 		background-color: #d6d6d6;
 		position: absolute;
 		top: 1689px;
-		left: 943px;
-		
+		left: 1010px;
 	}
- 	article {
+	.p5 {
+		position: absolute;
+		top: 1680px;
+		left: 1060px;
+		height: 104px;
+		width: 315px;
+		font-size: 21.5px;
+		line-height: 26px;
+	}
 
- 	}
+	.p6 {
+		position: absolute;
+		top: 1800px;
+		left: 1060px;
+		height: 104px;
+		width: 315px;
+		font-size: 21.5px;
+		line-height: 26px;
+	}
+	
 	
